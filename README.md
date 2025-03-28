@@ -1,5 +1,5 @@
 # Dragon-curve
-A simple program in python that allows you to create simple or more complicated dragon curve patterns.\
+A simple program in python that allows you to create simple or more complicated dragon curve patterns.
 ### A work in progress.
 I plan on improving run time,\
 changing complexity increase and decrease algorithm \
@@ -12,7 +12,7 @@ This program requires having pygame downloaded.
 up arrow: move the pattern up \
 down arrow: move the patter down \
 right arrow: move the pattern right \
-left arrow: move the pattern left \ 
+left arrow: move the pattern left 
 
 char c: increase complexity \
 char d: decrease complexity \
