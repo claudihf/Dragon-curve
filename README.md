@@ -6,7 +6,7 @@ changing complexity increase and decrease algorithm \
               (Instead of just adding onto the path from the same location, I want the pattern to be visibly based on the previous pattern rather than it looking like the path got copy and pasted from the previous pattern)  \
               (Have it similar to drawing the dragon curve in real life)
 
-This program requires having pygame downloaded. \
+This program requires having pygame downloaded. 
 
 ### Controls of interface is: 
 up arrow: move the pattern up \
@@ -17,5 +17,5 @@ left arrow: move the pattern left \
 char c: increase complexity \
 char d: decrease complexity \
 char i: zoom in \
-char o: zoom out \
+char o: zoom out 
 
